@@ -8,3 +8,15 @@
 	display: flex;
 	justify-content: center;
 }
+
+.intro-img {
+	border-radius: 50%;
+}
+
+.intro-text {
+	margin-top: 30px;
+}
+
+.early-life {
+	margin-top: 30px;
+}
