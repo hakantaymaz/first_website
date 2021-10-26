@@ -1,0 +1,10 @@
+.intro-titles {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.intro-picture {
+	display: flex;
+	justify-content: center;
+}
